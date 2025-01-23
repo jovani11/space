@@ -160,7 +160,7 @@ const mars = new Objects(Math.random() * canvas.width ,Math.random() * canvas.he
 for(let i=0; i<amountUnivers;i ++) {
     var height = Math.random() * 50 
     var width = Math.random() * 50 
-    universe.push(new Objects(Math.random() * canvas.width ,Math.random() * canvas.height,height,width, `../canvasv2/${universeList[Math.floor(Math.random() * universeList.length)]}`))
+    universe.push(new Objects(Math.random() * canvas.width ,Math.random() * canvas.height,height,width, `./canvasv2/${universeList[Math.floor(Math.random() * universeList.length)]}`))
 }
 
 for(let i=0; i<amountOfStars; i++) {
