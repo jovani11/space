@@ -1,6 +1,6 @@
 let canvas = document.getElementById("canvas");
 canvas.height = window.innerHeight;
-canvas.width = 10000//window.innerWidth;
+canvas.width = window.innerWidth;
 
 if (canvas) {
     console.log("Canvas supported!");
