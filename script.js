@@ -135,15 +135,15 @@ var starColor = ["blue", "orange", "white","yellow"]
 var closeButton = document.getElementById("exit")
 const message = [
     "“She is clothed with strength and dignity; she can laugh at the days to come.” - Proverbs 31:25",
-    "“God is within her; she will not fall; God will help her at break of day.” - Psalm 46:5",
+    "“Like a leaf falling in autumn's breeze  I fell for you, oh so easily In your arms, I found my home And with you, my heart will always roam. ” ―Unknown", 
     "“Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight.” - 1 Peter 3:3-4 ",
+    "“Stars - Even if you combine all the stars in the universse it will not be enough to show how much I like you”",
+    "“God is within her; she will not fall; God will help her at break of day.” - Psalm 46:5", 
+    "“Keep me as the apple of Your ey”e - Psalm 17:8", 
+    "“In every universe I'll will find you”",
+    "“In Your Eyes: In your eyes, the stars shine.” ― Unknown",
     "“She is more precious than rubies; nothing you desire can compare with her. Long life is in her right hand; in her left hand are riches and honor. Her ways are pleasant ways, and all her paths are peace. She is a tree of life to those who take hold of her; those who hold her fast will be blessed.” - Proverbs 3:15-18",
-    "message 5",
-    "message 6",
-    "message 7",
-    "message 8",
-    "message 9",
-    "message 10"
+    "“My head is spinning, My heart is racing Should I tell you, do I say? Whenever I see you, my thoughts begin to stray You’re more to me than you knowI just hope that my love for you will show. ―Unknown”"
 ]
 
 var amountUnivers = 15
