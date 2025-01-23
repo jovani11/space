@@ -99,18 +99,21 @@ class Objects {
         this.righEdge = this.x+ this.width
     }
 
-    draw() {
-        if(this.image.complete) {
-            ctx.drawImage(this.image,this.x, this.y, this.height, this.width)
-           // console.log("image drawn")
+   draw() {
+        if (this.image.complete && this.image.naturalWidth !== 0) {
+            // Image is fully loaded and not broken
+             ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
         } else {
-            this.image.onload = () => {
+                this.image.onload = () => {
+                // Draw the image once it’s loaded
                 ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
-              //  console.log("Image drawn after loading");
-            }
-        }
-        
+        };
+                this.image.onerror = () => {
+            console.error("Failed to load image:", this.image.src);
+        };
+     }
     }
+
 
     update() {
         this.draw()
