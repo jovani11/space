@@ -150,7 +150,7 @@ var amountUnivers = 15
 var universe = []
 var universeList = ["universe_1.png", "universe_2.png", "universe_3.png"]
 //planets
-var moonPhase = ["moon_1.png", "moon_2.png"]
+var moonPhase = ["moon_1.png"]
 const saturn = new Objects(Math.random() * canvas.width, Math.random() * canvas.height/2,canvas.width/3,canvas.width/3,"./canvasv2/saturn.png")
 const moon = new Objects(Math.random() * canvas.width, Math.random() * canvas.height, canvas.width/7,canvas.width/7,`./canvasv2/${moonPhase[Math.floor(Math.random() * moonPhase.length)]}`)
 const earth = new Objects(Math.random() * canvas.width ,Math.random() * canvas.height,canvas.width/5,canvas.width/5,"./canvasv2/earth.png")
