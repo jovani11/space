@@ -139,7 +139,7 @@ const message = [
     "“Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight.” - 1 Peter 3:3-4 ",
     "“Stars - Even if you combine all the stars in the universse it will not be enough to show how much I like you”",
     "“God is within her; she will not fall; God will help her at break of day.” - Psalm 46:5", 
-    "“Keep me as the apple of Your ey”e - Psalm 17:8", 
+    "“Keep me as the apple of Your eye” - Psalm 17:8", 
     "“What I like about you the most Is the way you walk The way you smile When you begin to talk What I admire about you a lot Is the way you dress Seeing the way you tuck your hair Is a sight of pure happiness There seems to be nothing That I don’t like about you Asking you out on a date Had become long overdue - ― Unknown",
     "“When I see you, Your eyes sparkle while you say hi with the sweetest voice in the world. When I see you, My heart skips a beat, and I don’t know what to say. When I see you, Love and happiness fulfill my thoughts, and all of my troubles go away. When I see you, I wonder if you think about me as much as I think about you. When I see you, I daydream about the day we could say “I Do.” When I see you, All I want to say is, “I love you.” ― Roslyn Stevenson",
     "“She is more precious than rubies; nothing you desire can compare with her. Long life is in her right hand; in her left hand are riches and honor. Her ways are pleasant ways, and all her paths are peace. She is a tree of life to those who take hold of her; those who hold her fast will be blessed.” - Proverbs 3:15-18",
