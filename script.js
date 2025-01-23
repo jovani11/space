@@ -154,7 +154,7 @@ var moonPhase = ["moon_2.png"]
 const saturn = new Objects(Math.random() * canvas.width, Math.random() * canvas.height/2,canvas.width/3,canvas.width/3,"./canvasv2/saturn.png")
 const earth = new Objects(Math.random() * canvas.width ,Math.random() * canvas.height,canvas.width/5,canvas.width/5,"./canvasv2/earth.png")
 const mars = new Objects(Math.random() * canvas.width ,Math.random() * canvas.height,canvas.width/9,canvas.width/9,"./canvasv2/mars.png")
-const moon = new Objects(Math.random() * canvas.width, Math.random() * canvas.height, canvas.width/3,canvas.width/3,`./canvasv2/${moonPhase[Math.floor(Math.random() * moonPhase.length)]}`)
+const moon = new Objects(Math.random() * canvas.width, Math.random() * canvas.height, canvas.width/17,canvas.width/17,`./canvasv2/${moonPhase[Math.floor(Math.random() * moonPhase.length)]}`)
 //append universe
 for(let i=0; i<amountUnivers;i ++) {
     var height = Math.random() * 50 
