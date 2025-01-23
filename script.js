@@ -166,7 +166,7 @@ for(let i=0; i<amountUnivers;i ++) {
 for(let i=0; i<amountOfStars; i++) {
     var x = Math.random() * canvas.width
     var y = Math.random() * canvas.height;
-    var radius = Math.random() * 7
+    var radius = Math.random() * 3.5
     var color = starColor[Math.floor(Math.random() * starColor.length)]
     stars.push(new Star(x,y,radius, color))
 
